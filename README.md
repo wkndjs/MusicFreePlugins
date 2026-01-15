@@ -14,5 +14,6 @@ musicfree音乐源/music插件
     https://cdn.jsdelivr.net/gh/GuGuMur/MusicFreePlugin-NeteaseRadio@master/dist/plugin.js
 
 个人 MusicFree 源插件订阅聚合器，这个聚合的插件接口比较多，一个订阅就够用，记得删除原有订阅和点击右上角菜单的卸载全部插件以免冲突。
-复制下面的链接在 MusicFree 插件订阅中使用：    
-`https://musicfreepluginshub.2020818.xyz/plugins.json`
+复制下面的链接在 MusicFree 插件订阅中使用：  
+  
+    https://musicfreepluginshub.2020818.xyz/plugins.json`
